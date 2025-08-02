@@ -1,0 +1,4 @@
+baseURL = 'https://r4ining.github.io/'
+languageCode = 'en-us'
+title = 'r4ining'
+theme = 'blowfish'
